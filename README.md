@@ -1,11 +1,4 @@
 - 🎨 love painting -3-
-- 👋 Hi, I’m @JayChou0118
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JayChou0118/JayChou0118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Perry from SCAU.
+- 🌱 I’m currently learning JavaScript
+- 📫 Email Address: JayChouZirina@gmail.com
