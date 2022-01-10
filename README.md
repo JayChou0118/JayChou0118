@@ -1,4 +1,4 @@
 - 🎨 love painting -3-
 - 👋 Hi, I’m Perry from SCAU.
 - 🌱 I’m currently learning JavaScript
-- 📫 Email Address: JayChouZirina@gmail.com
+- 📫 Email Address: ScauPerry@163.com
