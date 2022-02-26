@@ -1,4 +1,4 @@
 - 🎨 love painting -3-
 - 👋 Hi, I’m Perry from SCAU.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.
 - 📫 Email Address: ScauPerry@163.com
